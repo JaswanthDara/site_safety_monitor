@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbab"
+  },
+  "equipmentName": "Fire Extinguisher",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T09:00:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "Inspection passed without any issues.\nPressure gauge is in the green zone.\nNo signs of damage or corrosion.",
+  "createdAt": "2025-08-12T08:25:36.832+00:00",
+  "updatedAt": "2025-08-12T08:25:36.832+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbac"
+  },
+  "equipmentName": "Safety Helmets",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T10:30:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "All helmets stored properly.\nNo cracks or dents found.\nStraps are intact and adjustable.",
+  "createdAt": "2025-08-12T08:26:36.832+00:00",
+  "updatedAt": "2025-08-12T08:26:36.832+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbad"
+  },
+  "equipmentName": "First Aid Kits",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T11:15:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "All items fully stocked.\nExpiry dates verified for all supplies.\nNo broken or missing components.",
+  "createdAt": "2025-08-12T08:27:36.832+00:00",
+  "updatedAt": "2025-08-12T08:27:36.832+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbae"
+  },
+  "equipmentName": "Emergency Lighting",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T12:00:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "Lights tested and fully operational.\nBattery backup functional.\nNo flickering or dimming detected.",
+  "createdAt": "2025-08-12T08:28:36.832+00:00",
+  "updatedAt": "2025-08-12T08:28:36.832+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbaf"
+  },
+  "equipmentName": "Fire Alarm System",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T13:00:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "Alarm tested successfully.\nNo false alarms triggered.\nSystem reset and ready for use.",
+  "createdAt": "2025-08-12T08:29:36.832+00:00",
+  "updatedAt": "2025-08-12T08:29:36.832+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbb0"
+  },
+  "equipmentName": "Ladders",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T14:00:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "Safety locks verified.\nNo visible cracks or rust.\nLadder stable and secure.",
+  "createdAt": "2025-08-12T08:30:36.832+00:00",
+  "updatedAt": "2025-08-12T08:30:36.832+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbb1"
+  },
+  "equipmentName": "Protective Gloves",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T15:30:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "Sufficient stock available.\nNo tears or holes found.\nStored in clean environment.",
+  "createdAt": "2025-08-12T08:31:36.832+00:00",
+  "updatedAt": "2025-08-12T08:31:36.832+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbb2"
+  },
+  "equipmentName": "Eye Wash Stations",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T16:15:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "Water is clean and clear.\nStations easily accessible.\nEquipment free of damage.",
+  "createdAt": "2025-08-12T08:32:36.832+00:00",
+  "updatedAt": "2025-08-12T08:32:36.832+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbb3"
+  },
+  "equipmentName": "Respirators",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T17:00:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "Filters recently replaced.\nUnits cleaned thoroughly.\nReady for immediate use.",
+  "createdAt": "2025-08-12T08:33:36.832+00:00",
+  "updatedAt": "2025-08-12T08:33:36.832+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b241ab1b3d13ca2c0dbb4"
+  },
+  "equipmentName": "Emergency Showers",
+  "checkedBy": "6895a1bcdf60958cf96d499c",
+  "checkedAt": "2025-08-13T18:00:00.000+00:00",
+  "status": "Compliant",
+  "remarks": "Water flow tested.\nShower heads clean.\nNo leaks detected.",
+  "createdAt": "2025-08-12T08:34:36.832+00:00",
+  "updatedAt": "2025-08-12T08:34:36.832+00:00",
+  "__v": 0
+}]

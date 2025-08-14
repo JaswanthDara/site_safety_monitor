@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db37"
+  },
+  "name": "Barangaroo South",
+  "location": "Sydney, NSW",
+  "manager": "David Thompson",
+  "contact": "+61 2 8000 1111"
+},
+{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db38"
+  },
+  "name": "Queen’s Wharf",
+  "location": "Brisbane, QLD",
+  "manager": "Emily Johnson",
+  "contact": "+61 7 3000 2222"
+},
+{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db39"
+  },
+  "name": "West Gate Tunnel Project",
+  "location": "Melbourne, VIC",
+  "manager": "Michael Williams",
+  "contact": "+61 3 9000 3333"
+},
+{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3a"
+  },
+  "name": "Perth Airport Expansion",
+  "location": "Perth, WA",
+  "manager": "Olivia Smith",
+  "contact": "+61 8 6000 4444"
+},
+{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3b"
+  },
+  "name": "Canberra Light Rail Stage 2",
+  "location": "Canberra, ACT",
+  "manager": "James Brown",
+  "contact": "+61 2 6000 5555"
+},
+{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3c"
+  },
+  "name": "Darwin Waterfront Development",
+  "location": "Darwin, NT",
+  "manager": "Sophie Davis",
+  "contact": "+61 8 8000 6666"
+},
+{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3d"
+  },
+  "name": "Torrens to Darlington Upgrade",
+  "location": "Adelaide, SA",
+  "manager": "Liam Wilson",
+  "contact": "+61 8 7000 7777"
+},
+{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3e"
+  },
+  "name": "Gold Coast Light Rail Stage 3",
+  "location": "Gold Coast, QLD",
+  "manager": "Charlotte Taylor",
+  "contact": "+61 7 8000 8888"
+},
+{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3f"
+  },
+  "name": "Western Sydney Airport Terminal",
+  "location": "Badgerys Creek, NSW",
+  "manager": "Benjamin Martin",
+  "contact": "+61 2 9000 9999"
+},
+{
+  "_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db40"
+  },
+  "name": "Melbourne Metro Tunnel",
+  "location": "Melbourne, VIC",
+  "manager": "Grace Harris",
+  "contact": "+61 3 7000 1010"
+}]

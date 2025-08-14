@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6895a1bcdf60958cf96d499c"
+  },
+  "name": "James Smith",
+  "email": "james.smith@gmail.co.uk",
+  "password": "$2b$10$4KYxl06fPvByBgno.pbQQO2lLg8tISiUJ2HGpiAl.4rXO9Ie0IxOS",
+  "__v": 0
+},
+{
+  "_id": "6895a1bcdf60958cf96d499d",
+  "name": "Emily Johnson",
+  "email": "emily.johnson@hotmail.co.uk",
+  "password": "$2b$10$1wXl0YfPvBv6Cgnq.aPZZO2lLk9yTSdUJ3HGbiBl.7tXO9Ie1BxOR",
+  "__v": 0
+},
+{
+  "_id": "6895a1bcdf60958cf96d499e",
+  "name": "Oliver Brown",
+  "email": "oliver.brown@yahoo.co.uk",
+  "password": "$2b$10$2vYn07fOaXByBfno.kcQQP3rLz9zTImUI4HGrzAl.1sXO7Ie2CxOS",
+  "__v": 0
+},
+{
+  "_id": "6895a1bcdf60958cf96d499f",
+  "name": "Charlotte Davis",
+  "email": "charlotte.davis@gmail.co.uk",
+  "password": "$2b$10$9uXl06fPvByZgnk.nqPQRO2lLm8sISnUJ1HGqiAl.4vXO8Ie3DxOT",
+  "__v": 0
+},
+{
+  "_id": "6895a1bcdf60958cf96d49a0",
+  "name": "Harry Wilson",
+  "email": "harry.wilson@outlook.co.uk",
+  "password": "$2b$10$8xYl06fPvByBgmo.paLQQO2lLm7qISnUJ2HGrjAl.3rXO1Ie5NxOS",
+  "__v": 0
+},
+{
+  "_id": "6895a1bcdf60958cf96d49a1",
+  "name": "Sophie Taylor",
+  "email": "sophie.taylor@live.co.uk",
+  "password": "$2b$10$3pYn06fPvByBgno.qbRQWO2lLk9yTSdUJ2HGqiAl.2sXO2Ie6WxOS",
+  "__v": 0
+},
+{
+  "_id": "6895a1bcdf60958cf96d49a2",
+  "name": "George Evans",
+  "email": "george.evans@gmail.co.uk",
+  "password": "$2b$10$6uXl06fPvByZgmo.paPQZO2lLk7qTSdUJ3HGrjAl.4tXO3Ie9DxOS",
+  "__v": 0
+},
+{
+  "_id": "6895a1bcdf60958cf96d49a3",
+  "name": "Isabella White",
+  "email": "isabella.white@hotmail.co.uk",
+  "password": "$2b$10$7vYn06fPvByBgno.qcRQXO2lLk8yTSdUJ4HGqiAl.5uXO4Ie0WxOS",
+  "__v": 0
+},
+{
+  "_id": "6895a1bcdf60958cf96d49a4",
+  "name": "Jack Harris",
+  "email": "jack.harris@yahoo.co.uk",
+  "password": "$2b$10$0xXl06fPvByBgmo.pdPQYO2lLk6zTSdUJ5HGpiAl.6vXO5Ie1CxOS",
+  "__v": 0
+},
+{
+  "_id": "6895a1bcdf60958cf96d49a5",
+  "name": "Mia Martin",
+  "email": "mia.martin@outlook.co.uk",
+  "password": "$2b$10$5pYn06fPvByBgmo.qbRQXO2lLk7yTSdUJ2HGrjAl.3sXO6Ie2WxOS",
+  "__v": 0
+}]

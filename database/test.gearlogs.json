@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "689b16df8de8cd009f153b9b"
+  },
+  "worker": {
+    "$oid": "689b12b9b1b3d13ca2c0db7c"
+  },
+  "site": {
+    "$oid": "6899ddd7b1b3d13ca2c0db37"
+  },
+  "gearType": "Safety Harness",
+  "gearCondition": "No visible wear, all buckles intact",
+  "dateChecked": {
+    "$date": "2025-08-12T14:01:00.000Z"
+  },
+  "status": "Good",
+  "remarks": "Harness checked for fraying and rust. No damage observed. Approved for continued use.",
+  "createdAt": {
+    "$date": "2025-08-12T10:26:39.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T12:14:05.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b2a2c80f55c809256ea7b"
+  },
+  "worker": {
+    "$oid": "689b12b9b1b3d13ca2c0db7c"
+  },
+  "site": {
+    "$oid": "6899ddd7b1b3d13ca2c0db38"
+  },
+  "gearType": "Helmet",
+  "gearCondition": "Slight scratches, no cracks",
+  "dateChecked": {
+    "$date": "2025-08-12T04:31:00.000Z"
+  },
+  "status": "Good",
+  "remarks": "Helmet surface cleaned and inspected. No structural damage found. Chin strap secure.",
+  "createdAt": {
+    "$date": "2025-08-12T11:49:00.006Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:49:00.006Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b2a6080f55c809256ea8e"
+  },
+  "worker": {
+    "$oid": "689b12b9b1b3d13ca2c0db7d"
+  },
+  "site": {
+    "$oid": "6899ddd7b1b3d13ca2c0db39"
+  },
+  "gearType": "Gloves",
+  "gearCondition": "Minor abrasions on fingertips",
+  "dateChecked": {
+    "$date": "2025-08-02T06:31:00.000Z"
+  },
+  "status": "Good",
+  "remarks": "Gloves show signs of regular wear. Grip remains effective. May require replacement soon.",
+  "createdAt": {
+    "$date": "2025-08-12T11:49:52.511Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:49:52.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b2a9480f55c809256eaa1"
+  },
+  "worker": {
+    "$oid": "689b12b9b1b3d13ca2c0db7e"
+  },
+  "site": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3a"
+  },
+  "gearType": "Safety Glasses",
+  "gearCondition": "Clear lenses, slight frame looseness",
+  "dateChecked": {
+    "$date": "2025-07-10T09:41:00.000Z"
+  },
+  "status": "Replaced",
+  "remarks": "Lenses cleaned and free from scratches. Minor looseness adjusted. Fit is acceptable.",
+  "createdAt": {
+    "$date": "2025-08-12T11:50:44.147Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:50:44.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b2af280f55c809256eab4"
+  },
+  "worker": {
+    "$oid": "689b12b9b1b3d13ca2c0db7f"
+  },
+  "site": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3b"
+  },
+  "gearType": "Steel-Toe Boots",
+  "gearCondition": "Soles intact, exterior scuffed",
+  "dateChecked": {
+    "$date": "2025-07-18T09:41:00.000Z"
+  },
+  "status": "Good",
+  "remarks": "Boots scuffed from daily use. Soles and toe caps fully intact. Fit remains supportive.",
+  "createdAt": {
+    "$date": "2025-08-12T11:52:18.758Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:52:18.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b2b3380f55c809256eac7"
+  },
+  "worker": {
+    "$oid": "689b12b9b1b3d13ca2c0db80"
+  },
+  "site": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3e"
+  },
+  "gearType": "High-Visibility Vest",
+  "gearCondition": "Reflective strips worn",
+  "dateChecked": {
+    "$date": "2025-06-18T11:37:00.000Z"
+  },
+  "status": "Good",
+  "remarks": "Reflective material faded slightly. Vest still provides visibility. Will monitor wear.",
+  "createdAt": {
+    "$date": "2025-08-12T11:53:23.062Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:53:23.062Z"
+  },
+  "__v": 0
+}]

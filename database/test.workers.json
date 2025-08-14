@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db7b"
+  },
+  "workerName": "Ethan Walker",
+  "equipmentType": "Hard Hat",
+  "issuedAt": "2025-08-01T08:00:00Z",
+  "returnedAt": null,
+  "status": "Issued",
+  "remarks": "New employee"
+},
+{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db7c"
+  },
+  "workerName": "Maria Lopez",
+  "equipmentType": "Safety Glasses",
+  "issuedAt": "2025-08-02T09:30:00Z",
+  "returnedAt": "2025-08-10T16:00:00Z",
+  "status": "Returned",
+  "remarks": "Completed job"
+},
+{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db7d"
+  },
+  "workerName": "Rajesh Kumar",
+  "equipmentType": "Safety Harness",
+  "issuedAt": "2025-08-03T10:15:00Z",
+  "returnedAt": null,
+  "status": "Issued",
+  "remarks": ""
+},
+{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db7e"
+  },
+  "workerName": "Emily Davis",
+  "equipmentType": "Steel Toe Boots",
+  "issuedAt": "2025-08-01T14:00:00Z",
+  "returnedAt": null,
+  "status": "Issued",
+  "remarks": "Temporary replacement boots"
+},
+{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db7f"
+  },
+  "workerName": "Ahmed Hassan",
+  "equipmentType": "Reflective Vest",
+  "issuedAt": "2025-08-05T07:45:00Z",
+  "returnedAt": "2025-08-07T12:30:00Z",
+  "status": "Returned",
+  "remarks": "Routine inspection"
+},
+{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db80"
+  },
+  "workerName": "Linda Brown",
+  "equipmentType": "Ear Protection",
+  "issuedAt": "2025-08-04T11:00:00Z",
+  "returnedAt": null,
+  "status": "Issued",
+  "remarks": ""
+},
+{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db81"
+  },
+  "workerName": "Chen Wei",
+  "equipmentType": "Gloves",
+  "issuedAt": "2025-08-02T08:20:00Z",
+  "returnedAt": null,
+  "status": "Issued",
+  "remarks": "Damaged previous pair"
+},
+{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db82"
+  },
+  "workerName": "Jessica Thompson",
+  "equipmentType": "Face Shield",
+  "issuedAt": "2025-08-06T13:15:00Z",
+  "returnedAt": null,
+  "status": "Issued",
+  "remarks": "New requirement for zone C"
+},
+{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db83"
+  },
+  "workerName": "Mohammed Ali",
+  "equipmentType": "Gas Mask",
+  "issuedAt": "2025-08-03T15:00:00Z",
+  "returnedAt": "2025-08-10T09:00:00Z",
+  "status": "Returned",
+  "remarks": ""
+},
+{
+  "_id": {
+    "$oid": "689b12b9b1b3d13ca2c0db84"
+  },
+  "workerName": "Olga Ivanova",
+  "equipmentType": "Work Jacket",
+  "issuedAt": "2025-08-01T12:00:00Z",
+  "returnedAt": null,
+  "status": "Issued",
+  "remarks": "Issued during night shift"
+}]

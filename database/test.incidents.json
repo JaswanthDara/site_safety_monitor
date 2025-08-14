@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "689b260c80f55c809256e9db"
+  },
+  "user": {
+    "$oid": "6895a1bcdf60958cf96d499c"
+  },
+  "site_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db37"
+  },
+  "incident_type": "Fall",
+  "title": "Worker slipped on wet pavement",
+  "description": "Employee slipped near the loading dock because the floor was wet after cleaning. Although the worker lost balance, no serious injuries occurred. First aid was administered on site immediately. Warning signs were placed to prevent others from slipping, and the cleaning schedule was revised to avoid such hazards in the future. Staff were reminded to wear appropriate safety footwear and remain cautious in wet areas.",
+  "severity_level": "Low",
+  "date": {
+    "$date": "2025-08-13T01:01:00.000Z"
+  },
+  "resolved": false,
+  "createdAt": {
+    "$date": "2025-08-12T11:31:24.995Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:37:08.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b27af80f55c809256e9f5"
+  },
+  "user": {
+    "$oid": "6895a1bcdf60958cf96d499c"
+  },
+  "site_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db38"
+  },
+  "incident_type": "Fall",
+  "title": "Trip on uneven pavement",
+  "description": "An employee tripped over uneven and cracked pavement near the main entrance, which caused a minor fall and bruising on the arm. The damaged pavement was fenced off for safety and reported to the maintenance team for urgent repair. Walkways were inspected for similar hazards, and workers were advised to be extra vigilant, especially in low light conditions. A repair schedule was established to fix the pavement promptly.",
+  "severity_level": "Medium",
+  "date": {
+    "$date": "2025-08-14T06:26:00.000Z"
+  },
+  "resolved": true,
+  "createdAt": {
+    "$date": "2025-08-12T11:38:23.989Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:38:23.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b27ed80f55c809256ea00"
+  },
+  "user": {
+    "$oid": "6895a1bcdf60958cf96d499c"
+  },
+  "site_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db39"
+  },
+  "incident_type": "Fall",
+  "title": "Fall from ladder during inspection",
+  "description": "While inspecting overhead pipes, a worker lost balance and fell from a ladder about one and a half meters high. The fall resulted in a minor ankle sprain and bruising, but the worker remained conscious and alert. Medical staff responded quickly, and the ladder was checked afterward to ensure it was in good condition. A safety review is underway to strengthen ladder use protocols and provide additional fall protection equipment.",
+  "severity_level": "Low",
+  "date": {
+    "$date": "2025-08-02T06:31:00.000Z"
+  },
+  "resolved": true,
+  "createdAt": {
+    "$date": "2025-08-12T11:39:25.209Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:39:25.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b282980f55c809256ea0b"
+  },
+  "user": {
+    "$oid": "6895a1bcdf60958cf96d499c"
+  },
+  "site_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3a"
+  },
+  "incident_type": "Equipment Failure",
+  "title": "Slip in hallway due to spilled liquid",
+  "description": "A worker slipped on water that had spilled in a busy hallway and was not immediately cleaned. No injuries were reported, but the incident was taken seriously to prevent recurrence. The spill was cleaned promptly, and wet floor signs were placed to alert staff. Cleaning procedures were revised to ensure faster response to spills. Staff were reminded about hazard awareness in high-traffic areas, and the incident was logged for future safety improvements.",
+  "severity_level": "High",
+  "date": {
+    "$date": "2025-07-12T06:31:00.000Z"
+  },
+  "resolved": false,
+  "createdAt": {
+    "$date": "2025-08-12T11:40:25.515Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:40:25.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b287080f55c809256ea16"
+  },
+  "user": {
+    "$oid": "6895a1bcdf60958cf96d499c"
+  },
+  "site_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3b"
+  },
+  "incident_type": "Electrical",
+  "title": "Fall on stairs due to missing handrail",
+  "description": "An employee lost footing on a staircase that had a missing handrail due to ongoing repairs. The fall caused minor cuts and bruises but no serious injuries. The maintenance team was immediately notified to install a temporary handrail, and stairwell safety inspections were increased. Employees were encouraged to report hazards promptly, and plans were made to replace the handrail permanently within two weeks.",
+  "severity_level": "Low",
+  "date": {
+    "$date": "2025-07-09T11:35:00.000Z"
+  },
+  "resolved": false,
+  "createdAt": {
+    "$date": "2025-08-12T11:41:36.015Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:41:36.015Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b28b180f55c809256ea21"
+  },
+  "user": {
+    "$oid": "6895a1bcdf60958cf96d499c"
+  },
+  "site_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3c"
+  },
+  "incident_type": "Fall",
+  "title": "Slip on oily surface in workshop",
+  "description": "Oil leaked onto the workshop floor near heavy machinery, creating a slippery surface that caused a worker to fall. The employee escaped with minor bruises, and the area was cleaned immediately using absorbent materials and degreaser. Regular inspections were scheduled to detect and fix leaks early. Staff received refresher training on handling spills and proper reporting, and warning signs were installed in high-risk zones.",
+  "severity_level": "Medium",
+  "date": {
+    "$date": "2025-07-15T07:32:00.000Z"
+  },
+  "resolved": true,
+  "createdAt": {
+    "$date": "2025-08-12T11:42:41.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:42:41.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b28e280f55c809256ea2c"
+  },
+  "user": {
+    "$oid": "6895a1bcdf60958cf96d499c"
+  },
+  "site_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3d"
+  },
+  "incident_type": "Fall",
+  "title": "Fall from scaffold during maintenance",
+  "description": "During routine maintenance, a worker fell from a scaffold platform and sustained minor bruises. Although fall protection gear was worn, a lapse in securing tools contributed to the accident. The scaffold setup and equipment were reviewed for safety compliance, and a safety committee launched an investigation. Additional training sessions on scaffold safety and tool handling are planned for all personnel involved.",
+  "severity_level": "Medium",
+  "date": {
+    "$date": "2025-07-24T07:47:00.000Z"
+  },
+  "resolved": true,
+  "createdAt": {
+    "$date": "2025-08-12T11:43:30.746Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:43:30.746Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b291280f55c809256ea37"
+  },
+  "user": {
+    "$oid": "6895a1bcdf60958cf96d499c"
+  },
+  "site_id": {
+    "$oid": "6899ddd7b1b3d13ca2c0db3f"
+  },
+  "incident_type": "Equipment Failure",
+  "title": "Trip on loose cables in office",
+  "description": "Loose electrical cables stretched across an office walkway caused an employee to trip and fall, though no injuries resulted. The cables were promptly secured and rerouted to prevent further hazards. An office safety audit was conducted focusing on trip hazards, and employees were reminded to maintain clear walkways and report any dangers immediately. Weekly follow-up inspections were scheduled to ensure compliance.",
+  "severity_level": "Medium",
+  "date": {
+    "$date": "2025-06-18T10:36:00.000Z"
+  },
+  "resolved": true,
+  "createdAt": {
+    "$date": "2025-08-12T11:44:18.890Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-12T11:44:18.890Z"
+  },
+  "__v": 0
+}]

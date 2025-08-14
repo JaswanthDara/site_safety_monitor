@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db94"
+  },
+  "title": "Slippery Floor in Warehouse",
+  "description": "Oil spill detected near the loading dock area. The spill has created a significant slip hazard for all personnel. Immediate cleaning is necessary to prevent accidents. Warning signs should be placed around the affected area. Staff must be informed to avoid the zone until cleaned.",
+  "date": "2025-08-10T08:30:00.000+00:00",
+  "location": "Warehouse 3, Dock Area",
+  "createdAt": "2025-08-12T09:00:00.000+00:00",
+  "updatedAt": "2025-08-12T09:00:00.000+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db95"
+  },
+  "title": "Broken Handrail on Staircase",
+  "description": "The handrail on the second-floor stairwell is loose and unstable. This poses a serious risk of falls for anyone using the stairs. Repairs must be scheduled urgently to restore safety. Until then, caution signs should be displayed. Access might need to be restricted if necessary.",
+  "date": "2025-08-11T11:15:00.000+00:00",
+  "location": "Main Building, Staircase B",
+  "createdAt": "2025-08-12T09:10:00.000+00:00",
+  "updatedAt": "2025-08-12T09:10:00.000+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db96"
+  },
+  "title": "Exposed Wiring in Office",
+  "description": "Damaged electrical cables have been found under the desk in office 207. The exposed wires create a potential shock hazard for employees. It is critical to isolate the area until repairs are made. Warning signs and protective covers should be installed. Electrical safety checks are recommended.",
+  "date": "2025-08-09T14:00:00.000+00:00",
+  "location": "Office 207, IT Department",
+  "createdAt": "2025-08-12T09:20:00.000+00:00",
+  "updatedAt": "2025-08-12T09:20:00.000+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db97"
+  },
+  "title": "Blocked Emergency Exit",
+  "description": "Boxes and storage materials are stacked in front of an emergency exit. This blockage creates a serious evacuation risk in case of an emergency. The obstruction must be removed immediately. Staff should be reminded of clear exit routes. Regular inspections should ensure compliance.",
+  "date": "2025-08-10T16:45:00.000+00:00",
+  "location": "Storage Room A, Ground Floor",
+  "createdAt": "2025-08-12T09:30:00.000+00:00",
+  "updatedAt": "2025-08-12T09:30:00.000+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db98"
+  },
+  "title": "Chemical Spill in Lab",
+  "description": "A small chemical spill has occurred near the workstation in Research Lab 2. The spill requires prompt cleanup by trained personnel using proper PPE. Containment measures should be put in place to prevent spread. Incident should be reported to safety officers. Area should be ventilated and monitored.",
+  "date": "2025-08-11T13:00:00.000+00:00",
+  "location": "Research Lab 2",
+  "createdAt": "2025-08-12T09:40:00.000+00:00",
+  "updatedAt": "2025-08-12T09:40:00.000+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db99"
+  },
+  "title": "Malfunctioning Fire Alarm",
+  "description": "The fire alarm on the third floor of Building A has been triggering randomly. False alarms can cause unnecessary panic and disrupt work. The system should be inspected by maintenance immediately. Temporary fire safety protocols should be reviewed. Staff need to be informed about the issue.",
+  "date": "2025-08-12T07:30:00.000+00:00",
+  "location": "Building A, 3rd Floor",
+  "createdAt": "2025-08-12T09:50:00.000+00:00",
+  "updatedAt": "2025-08-12T09:50:00.000+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db9a"
+  },
+  "title": "Uneven Pavement Outside",
+  "description": "Cracked and uneven pavement near the main entrance has been identified as a trip hazard. Pedestrians risk falling, especially during poor lighting conditions. Repair work should be scheduled as soon as possible. Temporary barriers or warning signs are advised. Regular monitoring of the pavement condition is needed.",
+  "date": "2025-08-10T09:00:00.000+00:00",
+  "location": "Main Entrance",
+  "createdAt": "2025-08-12T10:00:00.000+00:00",
+  "updatedAt": "2025-08-12T10:00:00.000+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db9b"
+  },
+  "title": "Faulty Ladder in Maintenance Room",
+  "description": "The ladder located in Maintenance Room 1 is missing safety locks and is unsafe to use. Use of this ladder should be prohibited until repairs are made. Replacement or servicing should be arranged promptly. Staff should be notified about the hazard. Alternative equipment should be provided if possible.",
+  "date": "2025-08-11T15:30:00.000+00:00",
+  "location": "Maintenance Room 1",
+  "createdAt": "2025-08-12T10:10:00.000+00:00",
+  "updatedAt": "2025-08-12T10:10:00.000+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db9c"
+  },
+  "title": "Poor Lighting in Parking Lot",
+  "description": "Several lights in the staff parking lot are not functioning. This creates dark areas that pose security and safety risks, especially at night. Replacement of faulty bulbs or fixtures should be prioritized. Temporary lighting might be necessary. Staff should be advised to exercise caution.",
+  "date": "2025-08-09T20:00:00.000+00:00",
+  "location": "Staff Parking Lot",
+  "createdAt": "2025-08-12T10:20:00.000+00:00",
+  "updatedAt": "2025-08-12T10:20:00.000+00:00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689b234db1b3d13ca2c0db9d"
+  },
+  "title": "Overloaded Power Outlet",
+  "description": "Multiple devices have been plugged into a single power outlet in Office 101. This overloading creates a risk of electrical fires. It is important to redistribute electrical devices to reduce the load. Use of power strips with circuit breakers is recommended. Employees should be educated on electrical safety.",
+  "date": "2025-08-12T08:15:00.000+00:00",
+  "location": "Office 101",
+  "createdAt": "2025-08-12T10:30:00.000+00:00",
+  "updatedAt": "2025-08-12T10:30:00.000+00:00",
+  "__v": 0
+}]
