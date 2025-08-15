@@ -1,7 +1,7 @@
 const Compliance = require('../models/Compliance');
 const User = require('../models/User');
 
-// Get all equipment compliance
+// Get all equipment compliance 
 const getCompliances = async (req, res) => {
   try {
     const compliances = await Compliance.find()
